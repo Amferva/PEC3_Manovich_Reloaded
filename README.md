@@ -9,6 +9,7 @@ Fecha: 17 de Marzo de 2023
 ~~~
 
 
+
 ![Cultura Digital](https://img.freepik.com/vector-gratis/concepto-isometrico-educacion-online_52683-8897.jpg?w=1060&t=st=1684329477~exp=1684330077~hmac=de615282fee17fca9ecc9d6260aa951c07ba8aeb1df480469f31264b08989bf8)(<a href="https://www.freepik.es/vector-gratis/concepto-isometrico-educacion-online_4470747.htm#&position=1&from_view=user">Imagen de pikisuperstar</a> en Freepik) 
 
 
@@ -22,9 +23,11 @@ Según Manovich,
 
 En la  **Actividad 2** aprendimos sobre la remediación, que a diferencia de la hibridación, esta reinterpretaba los medios. Pero como hemos comentado la hibridación es la fusión de varios procesos para crear uno nuevo, como bien indica la palabra, crear algo híbrido. 
 
-~~~
+
+
 En esta actividad vamos a ver dos casos de hibridación, el primero trata de la famosa historia de Alicia en el país de las maravillas y el segundo sobre los interactivos que ha creado National Geographic.
-~~~
+
+____________________
 
 
 ## Re-descubriendo la hibridacion:  "Alice for the iPad"
@@ -38,14 +41,23 @@ Para realizar esta obra tan fascinante, se usaron ilustraciones antiguas del lib
 
 [![Ver el vídeo](https://youtu.be/gew68Qj5kxw)](https://youtu.be/gew68Qj5kxw)
 
+____________________
+
 
 ## Re-descubriendo la hibridacion: " Interactivo de National Geographic"
 
 
 [![Ver el vídeo](https://youtu.be/TjHu_nb01UY)](https://youtu.be/TjHu_nb01UY)
 
+____________________
+
+
 ## Conclusión
 
+
+
+
+____________________
 
 
 ### Referencias y Bibliografía

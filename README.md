@@ -16,16 +16,12 @@ Fecha: 17 de Marzo de 2023
 
 ## La hibridación según Lev Manovich
 
-Denominamos hibridación, al proceso creativo en el que se fusionan prácticas y elementos analógicos y digitales, lo viejo y lo nuevo para crear algo original e innovador. Por ejemplo, generar experiencias interactivas en libros o revistas. 
+En la  **Actividad 2** aprendimos sobre la remediación, que a diferencia de la hibridación, esta reinterpretaba los medios. Pero como hemos comentado, la hibridación es la fusión de varios procesos para crear uno nuevo, como bien indica la palabra, crear algo híbrido. Para entenderlo mejor, es el proceso creativo en el que se fusionan o juntan prácticas y elementos analógicos y digitales, añadir lo viejo y lo nuevo para crear algo original e innovador. Por ejemplo, generar experiencias interactivas en libros o revistas, permitiendo la interacción del lector. 
 
 Según Manovich, 
 >"la hibridación es un proceso creativo en el que diferentes formas, estilos y técnicas se combinan para generar nuevas posibilidades" (Manovich, 2001).
 
-En la  **Actividad 2** aprendimos sobre la remediación, que a diferencia de la hibridación, esta reinterpretaba los medios. Pero como hemos comentado la hibridación es la fusión de varios procesos para crear uno nuevo, como bien indica la palabra, crear algo híbrido. 
-
-
-
-En esta actividad vamos a ver dos casos de hibridación, el primero trata de la famosa historia de Alicia en el país de las maravillas y el segundo sobre los interactivos que ha creado National Geographic.
+En esta actividad vamos a ver dos casos de hibridación, el primero trata de la famosa historia de Alicia en el país de las maravillas y el segundo sobre los interactivos que ha creado National Geographic para atraer a sus lectores.
 
 ____________________
 
@@ -35,11 +31,15 @@ ____________________
 
 La mayoría de nosotros conocemos el cuento de Alicia en el país de las maravillas, pero para los que no, es un clasico sobre las aventuras de una niña curiosa que cae en un mundo surrealista lleno de personajes extravagantes y situaciones absurdas, desafiando las reglas de la lógica y explorando temas de identidad y crecimiento personal.
 
-Para realizar esta obra tan fascinante, se usaron ilustraciones antiguas del libro de Tenniel, editadas y rediseñadas en *Photoshop* pero sn perder la esencia original. Uno de los objetivos principales de esta obra era combinarla con la tecnología actual, agregando elementos interactivos y nuevos objetos ilustrados cobrando vida en la pantalla. 
+Para realizar esta obra tan fascinante, se usaron ilustraciones antiguas del libro de Tenniel, editadas y rediseñadas en *Photoshop* pero sin perder la esencia original. Uno de los objetivos principales de esta obra, era combinarla con la tecnología actual agregando elementos interactivos y nuevos objetos ilustrados, haciendo que esta mezcla cobrara vida en la pantalla. 
 
-
+Se utilizó *Apple's Xcode* para conseguir que tuviera compatibilidad con iOS y se pudiera desarrollar, utilizando las funciones que los iPad tienen, cómo por ejemplo, los efectos de rotación e inclinación de pantalla para crear efectos como el movimiento de objetos o los personajes se balanceen de manera realista. Un efecto realmente expectacular. 
 
 [![Ver el vídeo](https://youtu.be/gew68Qj5kxw)](https://youtu.be/gew68Qj5kxw)
+
+
+
+
 
 ____________________
 

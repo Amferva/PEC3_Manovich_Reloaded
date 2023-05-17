@@ -1,18 +1,16 @@
 # PEC3: Visionando el futuro con las gafas de Manovich 
 
 ### Recurso de aprendizaje de Cultura Digital 
-
+![UOC](https://www.uoc.edu/portal/_resources/common/imatges/marca_UOC/UOC_Masterbrand.jpg)
 ~~~
 Autor: Ana Maria Ferre Vadillo                                 
-                                                                            Universitat Oberta de Catalunya
-Fecha: 17 de Marzo de 2023
+                                                     
+Fecha: 17 de Marzo de 2023                                                                                           
 ~~~
+
 
 ![Cultura Digital](https://img.freepik.com/vector-gratis/concepto-isometrico-educacion-online_52683-8897.jpg?w=1060&t=st=1684329477~exp=1684330077~hmac=de615282fee17fca9ecc9d6260aa951c07ba8aeb1df480469f31264b08989bf8)(<a href="https://www.freepik.es/vector-gratis/concepto-isometrico-educacion-online_4470747.htm#&position=1&from_view=user">Imagen de pikisuperstar</a> en Freepik) 
 
-~~~
-En este documento voy a explicar la hibridación desde "las gafas de Manovich" y exponer dos casos de mi elección.
-~~~
 
 
 ## La hibridación según Lev Manovich
@@ -22,10 +20,11 @@ Denominamos hibridación, al proceso creativo en el que se fusionan prácticas y
 Según Manovich, 
 >"la hibridación es un proceso creativo en el que diferentes formas, estilos y técnicas se combinan para generar nuevas posibilidades" (Manovich, 2001).
 
-En la  **Actividad 2** aprendimos sobre la remediación, que a diferencia de la hibridación, esta reinterpretaba los medios. Pero como hemos comentado la hibridación es la fusión de varios procesos para crear uno nuevo. 
+En la  **Actividad 2** aprendimos sobre la remediación, que a diferencia de la hibridación, esta reinterpretaba los medios. Pero como hemos comentado la hibridación es la fusión de varios procesos para crear uno nuevo, como bien indica la palabra, crear algo híbrido. 
 
-En esta actividad vamos a ver dos casos de hibridación, el primero trata de la famosa historia de **Alicia en el país de las maravillas** y el segundo sobre los **interactivos que ha creado National Geographic.** 
-
+~~~
+En esta actividad vamos a ver dos casos de hibridación, el primero trata de la famosa historia de Alicia en el país de las maravillas y el segundo sobre los interactivos que ha creado National Geographic.
+~~~
 
 
 ## Re-descubriendo la hibridacion:  "Alice for the iPad"
@@ -44,6 +43,9 @@ Para realizar esta obra tan fascinante, se usaron ilustraciones antiguas del lib
 
 
 [![Ver el vídeo](https://youtu.be/TjHu_nb01UY)](https://youtu.be/TjHu_nb01UY)
+
+## Conclusión
+
 
 
 ### Referencias y Bibliografía

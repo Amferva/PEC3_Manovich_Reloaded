@@ -24,12 +24,14 @@ Según Manovich,
 
 En la  **Actividad 2** aprendimos sobre la remediación, que a diferencia de la hibridación, esta reinterpretaba los medios. Pero como hemos comentado la hibridación es la fusión de varios procesos para crear uno nuevo. 
 
+En esta actividad vamos a ver dos casos de hibridación, el primero trata de la famosa historia de **Alicia en el país de las maravillas** y el segundo sobre los **interactivos que ha creado National Geographic.** 
+
 
 
 ## Re-descubriendo la hibridacion:  "Alice for the iPad"
 ![Imagen](https://theliteraryplatform.com/content/uploads/2010/04/Untitled-design.jpg)
 
-Todo el mundo conoce el cuento de Alicia en el país de las maravillas, por eso mismo me parece adecuado que el primer caso de hibridación sea _"Alice for the iPad"_. Podemos definirla como una aplicación basada en el típico libro haciendo que el usuario de iPad tenga una lectura interactiva. 
+La mayoría de nosotros conocemos el cuento de Alicia en el país de las maravillas, pero para los que no, es un clasico sobre las aventuras de una niña curiosa que cae en un mundo surrealista lleno de personajes extravagantes y situaciones absurdas, desafiando las reglas de la lógica y explorando temas de identidad y crecimiento personal. e hibridación sea _"Alice for the iPad"_. Para realizar esta obra se usaron ilustraciones antiguas del libro de Tenniel, 
 
 [![Ver el vídeo](https://youtu.be/gew68Qj5kxw)](https://youtu.be/gew68Qj5kxw)
 
@@ -43,6 +45,9 @@ Todo el mundo conoce el cuento de Alicia en el país de las maravillas, por eso 
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* https://theliteraryplatform.com/news/2010/04/making-alice-for-the-ipad/ Información e imagenes. 
+* https://www.nationalgeographic.com/pages/article/earth-day-instagram-ar-experience
+* 
 
 
 ----

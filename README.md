@@ -3,26 +3,24 @@
 ### Recurso de aprendizaje de Cultura Digital 
 
 ~~~
-Autor: Ana Maria Ferre Vadillo 
-
-
+Autor: Ana Maria Ferre Vadillo                                 
+                                                                            Universitat Oberta de Catalunya
 Fecha: 17 de Marzo de 2023
 ~~~
 
-![Cultura Digital](<a href="https://www.freepik.es/vector-gratis/concepto-isometrico-educacion-online_4470747.htm#&position=1&from_view=user">Imagen de pikisuperstar</a> en Freepik) 
+![Cultura Digital](https://img.freepik.com/vector-gratis/concepto-isometrico-educacion-online_52683-8897.jpg?w=1060&t=st=1684329477~exp=1684330077~hmac=de615282fee17fca9ecc9d6260aa951c07ba8aeb1df480469f31264b08989bf8)(<a href="https://www.freepik.es/vector-gratis/concepto-isometrico-educacion-online_4470747.htm#&position=1&from_view=user">Imagen de pikisuperstar</a> en Freepik) 
 
 
 
 ## La hibridación según Lev Manovich
 
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Se denomina hibridación al proceso creativo en el que se fusionan elementos analógicos y digitales para crear algo original. 
+[![Ver el vídeo](https://youtu.be/gew68Qj5kxw)](https://youtu.be/gew68Qj5kxw)n 
 
 
 ## Re-descubriendo la hibridacion:  "Alice for the iPad"
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+[![Ver el vídeo](https://youtu.be/gew68Qj5kxw)](https://youtu.be/gew68Qj5kxw)
 
 
 ## Re-descubriendo la hibridacion: " Interactivo de National Geographic"

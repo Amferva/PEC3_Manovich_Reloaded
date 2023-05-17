@@ -31,7 +31,11 @@ En esta actividad vamos a ver dos casos de hibridación, el primero trata de la 
 ## Re-descubriendo la hibridacion:  "Alice for the iPad"
 ![Imagen](https://theliteraryplatform.com/content/uploads/2010/04/Untitled-design.jpg)
 
-La mayoría de nosotros conocemos el cuento de Alicia en el país de las maravillas, pero para los que no, es un clasico sobre las aventuras de una niña curiosa que cae en un mundo surrealista lleno de personajes extravagantes y situaciones absurdas, desafiando las reglas de la lógica y explorando temas de identidad y crecimiento personal. e hibridación sea _"Alice for the iPad"_. Para realizar esta obra se usaron ilustraciones antiguas del libro de Tenniel, 
+La mayoría de nosotros conocemos el cuento de Alicia en el país de las maravillas, pero para los que no, es un clasico sobre las aventuras de una niña curiosa que cae en un mundo surrealista lleno de personajes extravagantes y situaciones absurdas, desafiando las reglas de la lógica y explorando temas de identidad y crecimiento personal.
+
+Para realizar esta obra tan fascinante, se usaron ilustraciones antiguas del libro de Tenniel, editadas y rediseñadas en *Photoshop* pero sn perder la esencia original. Uno de los objetivos principales de esta obra era combinarla con la tecnología actual, agregando elementos interactivos y nuevos objetos ilustrados cobrando vida en la pantalla. 
+
+
 
 [![Ver el vídeo](https://youtu.be/gew68Qj5kxw)](https://youtu.be/gew68Qj5kxw)
 

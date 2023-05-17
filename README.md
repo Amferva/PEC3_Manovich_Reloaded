@@ -16,10 +16,11 @@ Fecha: 17 de Marzo de 2023
 
 ## La hibridación según Lev Manovich
 
-En la  **Actividad 2** aprendimos sobre la remediación, que a diferencia de la hibridación, esta reinterpretaba los medios. En cambio, la hibridación es la fusión de varios procesos para crear uno nuevo, como bien indica la palabra, crear algo híbrido. Para entenderlo mejor, es el proceso creativo en el que se fusionan o juntan prácticas y elementos analógicos y digitales, añadir lo viejo y lo nuevo para crear algo original e innovador. Por ejemplo, generar experiencias interactivas en libros o revistas, permitiendo la interacción del lector. 
+En la  **Actividad 2** aprendimos sobre la remediación, que a diferencia de la hibridación, esta reinterpretaba los medios. En cambio, la hibridación es la fusión de varios procesos para crear uno nuevo, como bien indica la palabra, crear algo híbrido. Para entenderlo mejor, es el proceso creativo en el que se fusionan o juntan prácticas y elementos analógicos y digitales, añadir lo viejo y lo nuevo para crear algo original e innovador. Por ejemplo, generar experiencias interactivas en libros o revistas, permitiendo la interacción en formato digital del lector. 
 
 #### Según Manovich
 >"La hibridación es un proceso creativo en el que diferentes formas, estilos y técnicas se combinan para generar nuevas posibilidades" (Manovich, 2001).
+
 
 En esta actividad vamos a ver dos casos de hibridación, el primero trata de la famosa historia de Alicia en el país de las maravillas y el segundo sobre los interactivos que ha creado National Geographic para atraer a sus lectores.
 
@@ -66,6 +67,7 @@ ____________________
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+* https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios 
 * https://theliteraryplatform.com/news/2010/04/making-alice-for-the-ipad/ Información e imagenes. 
 * https://www.nationalgeographic.com/pages/article/earth-day-instagram-ar-experience
 * 

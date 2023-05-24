@@ -83,8 +83,11 @@ Emepcemos por definir que es la **realidad aumentada**, es la tecnología que co
 
 En este caso vamos a analizar dos iniciativas que tuvo National Geographic:
 La primera es una exhibición sobre la relidad aumentada para enseñar contenido pedagógico que se realizó en un centro comercial en Bucarest, este hacía que los clientes del centro comercial interactuarán a través de una pantalla gigante con animales que aparecian en forma de realidad aumentada. 
+
 Podemos ver la exibición en el siguiente video:
-[![Exhibición Centro Comercial](https://youtu.be/D0ojxzS1fCw)
+![Exhibición Centro Comercial](https://youtu.be/D0ojxzS1fCw)
+
+Otro de los ejemplos que nos ofrece National Geographic es 
 
 [![Ver el vídeo](https://youtu.be/TjHu_nb01UY)](https://youtu.be/TjHu_nb01UY)
 

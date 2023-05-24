@@ -79,9 +79,17 @@ ____________________
 
 El segundo caso de hibridación, según **"las gafas de Manovich"**, son los interactivos de **realidad aumentada (RA)** que ha creado National Geographic. 
 
-Definimos como **realidad aumentada** a la tecnología que combina elementos virtuales y elementos del mundo real, creando una experiencia única para el usuario. 
+Emepcemos por definir que es la **realidad aumentada**, es la tecnología que combina elementos virtuales y elementos del mundo real, creando una experiencia única para el usuario. Permitiendo superponer gráficos, imágenes, videos u otros contenidos digitales en el entorno físico, puede ser a través de teléfonos móviles, gafas 3D o a través de una pantalla.
+
+En este caso vamos a analizar dos iniciativas que tuvo National Geographic:
+La primera es una exhibición sobre la relidad aumentada para enseñar contenido pedagógico que se realizó en un centro comercial en Bucarest, este hacía que los clientes del centro comercial interactuarán a través de una pantalla gigante con animales que aparecian en forma de realidad aumentada. 
+Podemos ver la exibición en el siguiente video:
+[![Exhibición Centro Comercial](https://youtu.be/D0ojxzS1fCw)
 
 [![Ver el vídeo](https://youtu.be/TjHu_nb01UY)](https://youtu.be/TjHu_nb01UY)
+
+>"La hibridación mediática nos permite experimentar nuevas formas de narración, donde los límites entre la ficción y la realidad, el espectador y el participante, se difuminan" (El lenguaje de los nuevos medios, Lev Manovich).
+
 
 
 ____________________
@@ -106,6 +114,7 @@ ____________________
 * https://umhsapiens.com/el-avance-del-periodismo-con-la-realidad-aumentada/
 * [![Imagen en blanco y negro de Alicia en el país de las maravillas.](https://pixabay.com/es/vectors/alicia-en-el-pa%c3%ads-de-las-maravillas-276452/)
 * [![Realidad aumentada](https://es.wikipedia.org/wiki/Realidad_aumentada)
+* https://evemuseografia.com/2013/07/22/national-geographic-y-realidad-aumentada/
 
 
 ----

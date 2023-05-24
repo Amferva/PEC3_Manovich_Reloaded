@@ -101,7 +101,7 @@ Otro de los ejemplos que nos ofrece National Geographic es la aplicación creada
 
 Este caso de hibridación crea una narrativa visual despertando la conciencia y educando sobre el cambio climático y cómo afectará en las diferentes partes del mundo en el futuro. 
 
-[![National Geographic eamed up with Facebook’s Spark AR platform on the initiativeNational Geographic](https://static-prod.adweek.com/wp-content/uploads/2020/04/NatGeoEarthDayARExperienceHero-1240x620.jpg.webp)
+![National Geographic eamed up with Facebook’s Spark AR platform on the initiative National Geographic](https://static-prod.adweek.com/wp-content/uploads/2020/04/NatGeoEarthDayARExperienceHero-1240x620.jpg.webp)
 
 En el siguiente enlace podemos ver cómo funciona la aplicación: 
 

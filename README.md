@@ -79,19 +79,29 @@ ____________________
 
 El segundo caso de hibridación, según **"las gafas de Manovich"**, son los interactivos de **realidad aumentada (RA)** que ha creado National Geographic. 
 
-Emepcemos por definir que es la **realidad aumentada**, es la tecnología que combina elementos virtuales y elementos del mundo real, creando una experiencia única para el usuario. Permitiendo superponer gráficos, imágenes, videos u otros contenidos digitales en el entorno físico, puede ser a través de teléfonos móviles, gafas 3D o a través de una pantalla.
+Empecemos por definir que es la **realidad aumentada**, es la tecnología que combina elementos virtuales y elementos del mundo real, creando una experiencia única y diferente para el usuario. Además, permite superponer gráficos, imágenes, videos u otros contenidos digitales en el entorno físico, puediendo ser a través de teléfonos móviles, gafas 3D o, a través de una pantalla.
+
 
 En este caso vamos a analizar dos iniciativas que tuvo National Geographic:
-La primera es una exhibición sobre la relidad aumentada para enseñar contenido pedagógico que se realizó en un centro comercial en Bucarest, este hacía que los clientes del centro comercial interactuarán a través de una pantalla gigante con animales que aparecian en forma de realidad aumentada. 
+
+La primera es una exhibición sobre la relidad aumentada para enseñar contenido pedagógico que se realizó en un centro comercial, un animador iba guiando a los clientes del centro comercial y e indicaba como tenían que interactuar a través de una pantalla gigante, de esta manera aparecían animales, astronautas o incluso personajes de ficción que aparecian en forma de realidad aumentada, haciendo que el usuario formara parte del mundo virtual a través de una pantalla. 
 
 Podemos ver la exibición en el siguiente video:
 ![Exhibición Centro Comercial](https://youtu.be/D0ojxzS1fCw)
 
-Otro de los ejemplos que nos ofrece National Geographic es 
 
-[![Ver el vídeo](https://youtu.be/TjHu_nb01UY)](https://youtu.be/TjHu_nb01UY)
+>"La hibridación mediática representa un cambio fundamental en nuestra experiencia y comprensión de los medios, ya que desafía las nociones tradicionales de los límites y las categorías mediáticas establecidas." (Lev Manovich, El lenguaje de los nuevos medios)
 
->"La hibridación mediática nos permite experimentar nuevas formas de narración, donde los límites entre la ficción y la realidad, el espectador y el participante, se difuminan" (El lenguaje de los nuevos medios, Lev Manovich).
+
+Otro de los ejemplos que nos ofrece National Geographic es la aplicación creada en Spark AR para usuarios de Instagram. Abriendo esta aplicación podemos visualizar los efectos del cambio climático sobre 12 ciudades del mundo y ver como afecta el cambio climaático en un período de 50 años. Esta tecnología combina elementos físicos e interactivos haciendo que la portada de la revista cobre vida mientras proyecta los datos climáticos en forma de un globo terráqueo. Esto hace que los participantes sean activos y sean capaces de explorar y aprender sobre la información climática de diferentes ciudades. Haciendo clic en cada ciudad para ver los datos actuales y trazar una línea hacia un lugar que se proyecta tendrá un clima similar en 50 años. Esto crea una narrativa visual que despierta la conciencia sobre el cambio climático y cómo afectará en las diferentes partes del mundo en el futuro.
+
+En el siguiente vídeo podemos ver cómo funciona la aplicación: 
+![Revista NG](https://www.nationalgeographic.com/pages/article/earth-day-instagram-ar-experience)
+
+Además, la revista de National Geographic también ofrece a los subscriptores contenido adicional si escanean los códigos QR que hay en algunas de las páginas de la revista. 
+![Revista NG](https://youtu.be/TjHu_nb01UY)](https://youtu.be/TjHu_nb01UY)
+
+>"La hibridación mediática transforma nuestra experiencia cotidiana, generando un entorno mediado por tecnologías digitales donde los límites entre lo real y lo virtual se difuminan." (Lev Manovich, El lenguaje de los nuevos medios)
 
 
 

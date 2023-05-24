@@ -126,15 +126,15 @@ ____________________
 ### Referencias y Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-* https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios 
-* https://theliteraryplatform.com/news/2010/04/making-alice-for-the-ipad/ Información e imagenes. 
-* https://www.nationalgeographic.com/pages/article/earth-day-instagram-ar-experience
-* http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
-* http://juan.psicologiasocial.eu/conocimiento-y-tecnologia
-* https://umhsapiens.com/el-avance-del-periodismo-con-la-realidad-aumentada/
-* [![Imagen en blanco y negro de Alicia en el país de las maravillas.](https://pixabay.com/es/vectors/alicia-en-el-pa%c3%ads-de-las-maravillas-276452/)
-* [![Realidad aumentada](https://es.wikipedia.org/wiki/Realidad_aumentada)
-* https://evemuseografia.com/2013/07/22/national-geographic-y-realidad-aumentada/
+* Hibridación de medios, https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios 
+* Alice for the iPad, https://theliteraryplatform.com/news/2010/04/making-alice-for-the-ipad/  
+* National Geographic IG, https://www.nationalgeographic.com/pages/article/earth-day-instagram-ar-experience
+* Hibridación Multimedia, http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+* Conocimiento y tecnología, http://juan.psicologiasocial.eu/conocimiento-y-tecnologia
+* Realidad Aumentada, https://umhsapiens.com/el-avance-del-periodismo-con-la-realidad-aumentada/
+* Imagen en blanco y negro de Alicia en el país de las maravillas.https://pixabay.com/es/vectors/alicia-en-el-pa%c3%ads-de-las-maravillas-276452/
+* Realidad aumentada, https://es.wikipedia.org/wiki/Realidad_aumentada
+* Realidad aumentada National Geographic, https://evemuseografia.com/2013/07/22/national-geographic-y-realidad-aumentada/
 
 
 ----

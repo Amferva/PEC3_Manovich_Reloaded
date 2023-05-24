@@ -82,9 +82,9 @@ El segundo caso de hibridación, según **"las gafas de Manovich"**, son los int
 Empecemos por definir que es la **realidad aumentada**, es la tecnología que combina elementos virtuales y elementos del mundo real, creando una experiencia única y diferente para el usuario. Además, permite superponer gráficos, imágenes, videos u otros contenidos digitales en el entorno físico, puediendo ser a través de teléfonos móviles, gafas 3D o, a través de una pantalla.
 
 
-En este caso vamos a analizar dos iniciativas que tuvo National Geographic:
+En este caso vamos a analizar diferentes iniciativas de hibridación que tuvo National Geographic para que los usuarios interactuen con su contenido:
 
-La primera es una exhibición sobre la relidad aumentada para enseñar contenido pedagógico que se realizó en un centro comercial, un animador iba guiando a los clientes del centro comercial y e indicaba como tenían que interactuar a través de una pantalla gigante, de esta manera aparecían animales, astronautas o incluso personajes de ficción que aparecian en forma de realidad aumentada, haciendo que el usuario formara parte del mundo virtual a través de una pantalla. 
+La primera es una exhibición sobre la relidad aumentada para enseñar contenido pedagógico que se realizó en un centro comercial, un animador iba guiando a los clientes del centro comercial e indicaba como tenían que interactuar a través de una pantalla gigante, de esta manera aparecían animales, astronautas o incluso personajes de ficción que aparecian en forma de realidad aumentada, haciendo que el usuario formara parte del mundo virtual a través de la pantalla. 
 
 Podemos ver la exibición en el siguiente video:
 [Exhibición Centro Comercial](https://youtu.be/D0ojxzS1fCw)
@@ -93,13 +93,17 @@ Podemos ver la exibición en el siguiente video:
 >"La hibridación mediática representa un cambio fundamental en nuestra experiencia y comprensión de los medios, ya que desafía las nociones tradicionales de los límites y las categorías mediáticas establecidas." (Lev Manovich, El lenguaje de los nuevos medios)
 
 
-Otro de los ejemplos que nos ofrece National Geographic es la aplicación creada en Spark AR para usuarios de Instagram. Abriendo esta aplicación podemos visualizar los efectos del cambio climático sobre 12 ciudades del mundo y ver como afecta el cambio climaático en un período de 50 años. Esta tecnología combina elementos físicos e interactivos haciendo que la portada de la revista cobre vida mientras proyecta los datos climáticos en forma de un globo terráqueo. Esto hace que los participantes sean activos y sean capaces de explorar y aprender sobre la información climática de diferentes ciudades. Haciendo clic en cada ciudad para ver los datos actuales y trazar una línea hacia un lugar que se proyecta tendrá un clima similar en 50 años. Esto crea una narrativa visual que despierta la conciencia sobre el cambio climático y cómo afectará en las diferentes partes del mundo en el futuro.
+Otro de los ejemplos que nos ofrece National Geographic es la aplicación creada en Spark AR para usuarios de Instagram. Abriendo esta aplicación podemos visualizar los efectos del cambio climático sobre 12 ciudades del mundo y ver como afecta este en un período de 50 años. Esta tecnología combina elementos físicos e interactivos haciendo que la portada de la revista cobre vida mientras proyecta los datos climáticos en forma de un globo terráqueo. Esto hace que los participantes sean activos y tengan la capacidad de explorar y aprender sobre la información climática de diferentes ciudades. 
 
-En el siguiente vídeo podemos ver cómo funciona la aplicación: 
-![Revista NG](https://www.nationalgeographic.com/pages/article/earth-day-instagram-ar-experience)
+Este caso de hibridación crea una narrativa visual despertando la conciencia y educando sobre el cambio climático y cómo afectará en las diferentes partes del mundo en el futuro. 
 
-Además, la revista de National Geographic también ofrece a los subscriptores contenido adicional si escanean los códigos QR que hay en algunas de las páginas de la revista. 
-![Revista NG](https://youtu.be/TjHu_nb01UY)](https://youtu.be/TjHu_nb01UY)
+En el siguiente enlace podemos ver cómo funciona la aplicación: 
+
+[Revista NG](https://www.nationalgeographic.com/pages/article/earth-day-instagram-ar-experience)
+
+Por último, la revista de National Geographic también ofrece a los subscriptores contenido adicional si escanean los códigos QR que hay en las páginas de sus revistas, creando una. hibridación entre contenido físico y digital. 
+[Revista NG](https://youtu.be/TjHu_nb01UY)
+
 
 >"La hibridación mediática transforma nuestra experiencia cotidiana, generando un entorno mediado por tecnologías digitales donde los límites entre lo real y lo virtual se difuminan." (Lev Manovich, El lenguaje de los nuevos medios)
 

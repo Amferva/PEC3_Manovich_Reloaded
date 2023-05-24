@@ -97,7 +97,7 @@ Podemos ver la exibición en el siguiente video:
 
 Otro de los ejemplos que nos ofrece National Geographic es la aplicación creada en Spark AR para usuarios de Instagram. Abriendo esta aplicación podemos visualizar los efectos del cambio climático sobre 12 ciudades del mundo y ver como afecta este en un período de 50 años. Esta tecnología combina elementos físicos e interactivos haciendo que la portada de la revista cobre vida mientras proyecta los datos climáticos en forma de un globo terráqueo. Esto hace que los participantes sean activos y tengan la capacidad de explorar y aprender sobre la información climática de diferentes ciudades. 
 
-Este caso de hibridación crea una narrativa visual despertando la conciencia y educando sobre el cambio climático y cómo afectará en las diferentes partes del mundo en el futuro. 
+Este caso de hibridación crea una narrativa visual intentando crear conciencia social y educando sobre el cambio climático y cómo afectará en las diferentes partes del mundo en el futuro. 
 
 ![National Geographic eamed up with Facebook’s Spark AR platform on the initiative National Geographic](https://static-prod.adweek.com/wp-content/uploads/2020/04/NatGeoEarthDayARExperienceHero-1240x620.jpg.webp)
 

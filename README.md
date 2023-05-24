@@ -87,7 +87,7 @@ En este caso vamos a analizar dos iniciativas que tuvo National Geographic:
 La primera es una exhibición sobre la relidad aumentada para enseñar contenido pedagógico que se realizó en un centro comercial, un animador iba guiando a los clientes del centro comercial y e indicaba como tenían que interactuar a través de una pantalla gigante, de esta manera aparecían animales, astronautas o incluso personajes de ficción que aparecian en forma de realidad aumentada, haciendo que el usuario formara parte del mundo virtual a través de una pantalla. 
 
 Podemos ver la exibición en el siguiente video:
-![Exhibición Centro Comercial](https://youtu.be/D0ojxzS1fCw)
+[Exhibición Centro Comercial](https://youtu.be/D0ojxzS1fCw)
 
 
 >"La hibridación mediática representa un cambio fundamental en nuestra experiencia y comprensión de los medios, ya que desafía las nociones tradicionales de los límites y las categorías mediáticas establecidas." (Lev Manovich, El lenguaje de los nuevos medios)

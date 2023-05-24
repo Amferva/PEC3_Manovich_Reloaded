@@ -117,7 +117,7 @@ Por último, la revista de National Geographic también ofrece a los subscriptor
 
 ## Conclusión
 
-En este caso se demuestra cómo la integración de elementos virtuales y del mundo real transforma nuestras experiencias en nuestro día a día. Los límites entre lo real y lo virtual hibridan, creando un entorno liderado por la tecnologías ofreciendo nuevas formas de interactuar, aprender y explorar el contenido.
+En este caso se demuestra cómo la integración de elementos virtuales y del mundo real transforma nuestras experiencias en nuestro día a día. Los límites entre lo real y lo virtual se fusionan, creando un entorno liderado por la tecnologías ofreciendo nuevas formas de interactuar, aprender y explorar el contenido.
 
 
 ____________________

@@ -62,10 +62,14 @@ Podemos considerar que *Alice for the iPad* es un caso de hibridación **mediát
 </div>
 
 
-En el libro **"El lenguaje de los nuevos medios"**, Manovich destaca que la hibridación mediática no solo se limita a la mezcla de diferentes medios, sino que también involucra la integración de diferentes modos de representación, como lo visual, lo textual, lo sonoro y lo interactivo. En el caso de "Alice for the iPad", esto se logra a través de las ilustraciones, el texto narrativo, los efectos visuales y las interacciones táctiles. Todo un ejemplo de hibridación.
+En el libro **"El lenguaje de los nuevos medios"**, Manovich destaca que la hibridación mediática no solo se limita a la mezcla de diferentes medios, sino que también involucra la integración de diferentes modos de representación, como lo visual, lo textual, lo sonoro y lo interactivo. En el caso de *"Alice for the iPad"*, esto se logra a través de las ilustraciones, el texto narrativo, los efectos visuales y las interacciones táctiles. .
 
 
 >"La tecnología digital ofrece nuevas posibilidades para reinventar obras de arte y narrativas, creando una hibridación que combina lo tangible con lo virtual" (Manovich, Lev).
+
+## Conclusión
+
+Después de leer el texto podemos concluir que *Alice for the iPad* es un caso perfecto de hibridación combinando la tecnológia y la narración literaria, dónde la fusión de lo clásico y nuevo crean una nueva obra innovadora. 
 
 
 ____________________
@@ -97,6 +101,8 @@ Otro de los ejemplos que nos ofrece National Geographic es la aplicación creada
 
 Este caso de hibridación crea una narrativa visual despertando la conciencia y educando sobre el cambio climático y cómo afectará en las diferentes partes del mundo en el futuro. 
 
+[![National Geographic eamed up with Facebook’s Spark AR platform on the initiativeNational Geographic](https://static-prod.adweek.com/wp-content/uploads/2020/04/NatGeoEarthDayARExperienceHero-1240x620.jpg.webp)
+
 En el siguiente enlace podemos ver cómo funciona la aplicación: 
 
 [What the world will feel like in 2070.](https://www.nationalgeographic.com/pages/article/earth-day-instagram-ar-experience)
@@ -109,13 +115,9 @@ Por último, la revista de National Geographic también ofrece a los subscriptor
 >"La hibridación mediática transforma nuestra experiencia cotidiana, generando un entorno mediado por tecnologías digitales donde los límites entre lo real y lo virtual se difuminan." (Lev Manovich, El lenguaje de los nuevos medios)
 
 
-
-____________________
-
-
 ## Conclusión
 
-
+En este caso se demuestra cómo la integración de elementos virtuales y del mundo real transforma nuestras experiencias en nuestro día a día. Los límites entre lo real y lo virtual hibridan, creando un entorno liderado por la tecnologías ofreciendo nuevas formas de interactuar, aprender y explorar el contenido.
 
 
 ____________________

@@ -62,14 +62,12 @@ Podemos considerar que *Alice for the iPad* es un caso de hibridación **mediát
 </div>
 
 
-En el libro **"El lenguaje de los nuevos medios"**, Manovich destaca que la hibridación mediática no solo se limita a la mezcla de diferentes medios, sino que también involucra la integración de diferentes modos de representación, como lo visual, lo textual, lo sonoro y lo interactivo. En el caso de *"Alice for the iPad"*, esto se logra a través de las ilustraciones, el texto narrativo, los efectos visuales y las interacciones táctiles. .
-
 
 >"La tecnología digital ofrece nuevas posibilidades para reinventar obras de arte y narrativas, creando una hibridación que combina lo tangible con lo virtual" (Manovich, Lev).
 
 ## Conclusión
 
-Después de leer el texto podemos concluir que *Alice for the iPad* es un caso perfecto de hibridación combinando la tecnológia y la narración literaria, dónde la fusión de lo clásico y nuevo crean una nueva obra innovadora. 
+En el libro **"El lenguaje de los nuevos medios"**, Manovich destaca que la hibridación mediática no solo se limita a la mezcla de diferentes medios, sino que también involucra la integración de diferentes modos de representación, como lo visual, lo textual, lo sonoro y lo interactivo. En el caso de *"Alice for the iPad"*, esto se logra a través de las ilustraciones, el texto narrativo, los efectos visuales y las interacciones táctiles, haciendo que sea un caso perfecto de hibridación combinando la tecnológia y la narración literaria, dónde la fusión de lo clásico y nuevo crean una nueva obra innovadora.
 
 
 ____________________

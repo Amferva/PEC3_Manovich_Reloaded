@@ -33,6 +33,8 @@ ____________________
 <img src="https://theliteraryplatform.com/content/uploads/2010/04/Untitled-design.jpg" alt="Imagen" />
 </div>
 
+El primer caso de hibridación es *Alice for the iPad* o Alicia para el iPad en español.
+
 La mayoría de nosotros conocemos el cuento de Alicia en el país de las maravillas, pero para los que no, es un clasico sobre las aventuras de una niña curiosa que cae en un mundo surrealista lleno de personajes extravagantes y situaciones absurdas, desafiando las reglas de la lógica y explorando temas de identidad y crecimiento personal.
 
 Para realizar esta obra tan fascinante, se usaron ilustraciones antiguas del libro de **Tenniel**, editadas y rediseñadas en *Photoshop* pero intentando no perder su esencia original. Uno de los objetivos principales de esta obra, era combinarla con la tecnología actual, agregando elementos interactivos y nuevos objetos ilustrados, haciendo que esta mezcla cobrara vida en la pantalla. **La combinación perfecta de lo clásico y lo contemporáneo, de lo antiguo y lo nuevo.**
@@ -71,7 +73,13 @@ ____________________
 
 
 ## Re-descubriendo la hibridacion: " Interactivo de National Geographic"
+<div align="center">
+<img src="https://i0.wp.com/evemuseografia.com/wp-content/uploads/2013/07/national-geographic-augmented-reality.jpg" alt="Imagen" />
+</div>
 
+El segundo caso de hibridación, según **"las gafas de Manovich"**, son los interactivos de **realidad aumentada (RA)** que ha creado National Geographic. 
+
+Definimos como **realidad aumentada** a la tecnología que combina elementos virtuales y elementos del mundo real, creando una experiencia única para el usuario. 
 
 [![Ver el vídeo](https://youtu.be/TjHu_nb01UY)](https://youtu.be/TjHu_nb01UY)
 
@@ -95,7 +103,9 @@ ____________________
 * https://www.nationalgeographic.com/pages/article/earth-day-instagram-ar-experience
 * http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
 * http://juan.psicologiasocial.eu/conocimiento-y-tecnologia
-* 
+* https://umhsapiens.com/el-avance-del-periodismo-con-la-realidad-aumentada/
+* [![Imagen en blanco y negro de Alicia en el país de las maravillas.](https://pixabay.com/es/vectors/alicia-en-el-pa%c3%ads-de-las-maravillas-276452/)
+* [![Realidad aumentada](https://es.wikipedia.org/wiki/Realidad_aumentada)
 
 
 ----

@@ -99,7 +99,8 @@ Este caso de hibridación crea una narrativa visual despertando la conciencia y 
 
 En el siguiente enlace podemos ver cómo funciona la aplicación: 
 
-[Revista NG](https://www.nationalgeographic.com/pages/article/earth-day-instagram-ar-experience)
+[What the world will feel like in 2070.](https://www.nationalgeographic.com/pages/article/earth-day-instagram-ar-experience)
+Si se abre desde el dispositivo móvil utilizar el siguiente enlace: [Instagram](https://www.instagram.com/ar/238102353981031)
 
 Por último, la revista de National Geographic también ofrece a los subscriptores contenido adicional si escanean los códigos QR que hay en las páginas de sus revistas, creando una. hibridación entre contenido físico y digital. 
 [Revista NG](https://youtu.be/TjHu_nb01UY)

@@ -35,17 +35,23 @@ La mayoría de nosotros conocemos el cuento de Alicia en el país de las maravil
 Para realizar esta obra tan fascinante, se usaron ilustraciones antiguas del libro de **Tenniel**, editadas y rediseñadas en *Photoshop* pero sin perder su esencia original. Uno de los objetivos principales de esta obra, era combinarla con la tecnología actual, agregando elementos interactivos y nuevos objetos ilustrados, haciendo que esta mezcla cobrara vida en la pantalla. 
 
 <img src="https://static.wikia.nocookie.net/ipod/images/5/56/Xcode_14_icon.png/revision/latest/scale-to-width-down/152?cb=20220607175746" alt="Logo Xcode" align="right" width="100">
-Se utilizó *Apple's Xcode* para conseguir el efecto deseado de realidad. Además, tenía que tener compatibilidad con iOS para desarrollarse. Aprovecharón las funciones que los iPad ofrecen, cómo los efectos de rotación e inclinación de la pantalla, creando efectos como el movimiento de objetos, o que los personajes se balancen de un lado a otro de manera realistica. 
+Se utilizó *Apple's Xcode* para conseguir el efecto deseado de realidad. Además, tenía que tener compatibilidad con iOS para desarrollarse. Aprovecharón las funciones que los iPad ofrecen, cómo los efectos de rotación e inclinación de la pantalla, creando efectos como el movimiento de objetos, o que los personajes se balancen de un lado a otro de manera realistica. Como mencionó Ben Hammersley, 
+>"Cuando parece ser una buena idea añadir interactividad física a un libro existente, puede ser maravilloso, siempre y cuando se preserve la narrativa y la estética"
+
+
 Un efecto realmente innovador que podemos apreciar en el siguiente vídeo:
 
 [![Alice for the iPad](https://youtu.be/gew68Qj5kxw)](https://youtu.be/gew68Qj5kxw)
 
+Podemos considerar que *Alice for the iPad* es un caso de hibridación **mediática**, ya que fusiona la narrativa literaria, como es el cuento de Alicia en el país de las maravillas, y la tecnología digital como es el caso del iPad y las funciones interactivas de este. La obra combina elementos visuales, interactivos y narrativos ofreciendo una experiencia única al lector. Esto ocasiona que los lectores se conviertan en participantes activos en la historia haciendo la experiencia individual más personalizada.
 
+En el libro **"El lenguaje de los nuevos medios"**, Manovich destaca que la hibridación mediática no solo se limita a la mezcla de diferentes medios, sino que también involucra la integración de diferentes modos de representación, como lo visual, lo textual, lo sonoro y lo interactivo. En el caso de "Alice for the iPad", esto se logra a través de las ilustraciones, el texto narrativo, los efectos visuales y las interacciones táctiles. 
 
 
 
 
 ____________________
+
 
 
 ## Re-descubriendo la hibridacion: " Interactivo de National Geographic"
@@ -70,6 +76,8 @@ ____________________
 * https://es.wikipedia.org/wiki/Hibridaci%C3%B3n_de_medios 
 * https://theliteraryplatform.com/news/2010/04/making-alice-for-the-ipad/ Información e imagenes. 
 * https://www.nationalgeographic.com/pages/article/earth-day-instagram-ar-experience
+* http://multimedia.uoc.edu/blogs/fem/es/remediacio-multimedia-i-hibridacio-dels-mitjans/
+* http://juan.psicologiasocial.eu/conocimiento-y-tecnologia
 * 
 
 
